@@ -1,1 +1,11 @@
- 
+gameproject01/gameproject01.csproj
+gameproject01/gameproject01.sln
+gameproject01/Library/
+gameproject01/.vsconfig
+gameproject01/Assembly-CSharp.csproj
+gameproject01/Logs/Packages-Update.log
+gameproject01/Temp/
+gameproject01/Logs/
+gameproject01/UserSettings/
+gameproject01/obj/
+gameproject01/.vs/
